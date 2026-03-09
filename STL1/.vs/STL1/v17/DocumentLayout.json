@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\u002B\u002B\\2026\\STL1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|solutionrelative:STL1\\note.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|solutionrelative:STL1\\STL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|solutionrelative:STL1\\STL_eg2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|solutionrelative:STL1\\STL_eg1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9DB90B5B-AFA2-4F95-A676-7EF402A18A33}|STL1\\STL1.vcxproj|solutionrelative:STL1\\template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "STL_eg2.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg2.cpp",
+              "RelativeDocumentMoniker": "STL1\\STL_eg2.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg2.cpp",
+              "RelativeToolTip": "STL1\\STL_eg2.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-22T05:21:48.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "STL_eg1.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg1.cpp",
+              "RelativeDocumentMoniker": "STL1\\STL_eg1.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL_eg1.cpp",
+              "RelativeToolTip": "STL1\\STL_eg1.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-18T11:10:00.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "template.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\template.cpp",
+              "RelativeDocumentMoniker": "STL1\\template.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\template.cpp",
+              "RelativeToolTip": "STL1\\template.cpp",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAJQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T11:54:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STL.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL.cpp",
+              "RelativeDocumentMoniker": "STL1\\STL.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\STL.cpp",
+              "RelativeToolTip": "STL1\\STL.cpp",
+              "ViewState": "AgIAAK4DAAAAAAAAAAAUwKgDAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T08:21:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "note.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\note.cpp",
+              "RelativeDocumentMoniker": "STL1\\note.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\STL1\\STL1\\note.cpp",
+              "RelativeToolTip": "STL1\\note.cpp",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAUwCoCAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T07:46:17.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
