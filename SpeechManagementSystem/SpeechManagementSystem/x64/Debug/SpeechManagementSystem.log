@@ -1,0 +1,26 @@
+﻿  speechManager.cpp
+D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4244:         with
+D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4244:         [
+D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4244:             _Ty=float
+D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26): warning C4244:         ]
+  (编译源文件“speechManager.cpp”)
+      D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(33,26):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\code\C++\2026\SpeechManagementSystem\SpeechManagementSystem\speechManager.cpp(173,16):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+          D:\visual studio\VC\Tools\MSVC\14.43.34808\include\numeric(42,17):
+          查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  
+  SpeechManagementSystem.vcxproj -> D:\code\C++\2026\SpeechManagementSystem\x64\Debug\SpeechManagementSystem.exe
