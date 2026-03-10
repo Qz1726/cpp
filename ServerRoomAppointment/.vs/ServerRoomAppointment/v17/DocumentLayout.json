@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\teacher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\teacher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\serverRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\admin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\orderFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\orderFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\serverRoom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\globalFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\globalFile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6855966F-15BA-47B3-ADC5-C02BEAF71E23}|ServerRoomAppointment\\ServerRoomAppointment.vcxproj|solutionrelative:ServerRoomAppointment\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\main.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\main.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\main.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\main.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T11:08:10.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "person.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\person.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.h",
+              "RelativeToolTip": "ServerRoomAppointment\\person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T06:46:42.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\admin.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\admin.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T06:43:42.928Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "serverRoom.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\serverRoom.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.h",
+              "RelativeToolTip": "ServerRoomAppointment\\serverRoom.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T11:37:25.735Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\student.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\student.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T07:07:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "orderFile.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\orderFile.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.h",
+              "RelativeToolTip": "ServerRoomAppointment\\orderFile.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-06T04:11:04.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "person.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\person.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\person.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\person.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T06:49:04.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\student.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\student.h",
+              "RelativeToolTip": "ServerRoomAppointment\\student.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T06:52:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "orderFile.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\orderFile.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\orderFile.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\orderFile.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-06T04:11:43.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teacher.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\teacher.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.h",
+              "RelativeToolTip": "ServerRoomAppointment\\teacher.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T07:09:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teacher.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\teacher.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\teacher.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\teacher.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T07:14:12.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "serverRoom.cpp",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.cpp",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\serverRoom.cpp",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\serverRoom.cpp",
+              "RelativeToolTip": "ServerRoomAppointment\\serverRoom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T11:39:27.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "globalFile.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\globalFile.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\globalFile.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\globalFile.h",
+              "RelativeToolTip": "ServerRoomAppointment\\globalFile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T03:17:52.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin.h",
+              "DocumentMoniker": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.h",
+              "RelativeDocumentMoniker": "ServerRoomAppointment\\admin.h",
+              "ToolTip": "D:\\code\\C\u002B\u002B\\2026\\ServerRoomAppointment\\ServerRoomAppointment\\admin.h",
+              "RelativeToolTip": "ServerRoomAppointment\\admin.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T06:36:52.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
